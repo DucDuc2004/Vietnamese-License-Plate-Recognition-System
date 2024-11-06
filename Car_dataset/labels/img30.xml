@@ -1,0 +1,26 @@
+<annotation>
+	<folder>resize</folder>
+	<filename>img30.jpg</filename>
+	<path>D:\CodePython\License_Car_Recognition\resize\img30.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bien_so</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>208</xmin>
+			<ymin>155</ymin>
+			<xmax>350</xmax>
+			<ymax>186</ymax>
+		</bndbox>
+	</object>
+</annotation>
